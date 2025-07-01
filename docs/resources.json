@@ -112,5 +112,13 @@
 { "url":"etBass2/etBass2_14.mp3","type":"audio","bank":"etBass2","n":13},
 { "url":"etBass2/etBass2_15.mp3","type":"audio","bank":"etBass2","n":14},
 { "url":"etBass2/etBass2_16.mp3","type":"audio","bank":"etBass2","n":15},
-  
+{ "url":"etHat1/etHat1_01.mp3","type":"audio","bank":"etHat1","n":0},
+{ "url":"etHat1/etHat1_02.mp3","type":"audio","bank":"etHat1","n":1},
+{ "url":"etHat1/etHat1_03.mp3","type":"audio","bank":"etHat1","n":2},
+{ "url":"etHat1/etHat1_04.mp3","type":"audio","bank":"etHat1","n":3},
+{ "url":"etHat1/etHat1_05.mp3","type":"audio","bank":"etHat1","n":4},
+{ "url":"etHat1/etHat1_06.mp3","type":"audio","bank":"etHat1","n":5},
+{ "url":"etHat1/etHat1_07.mp3","type":"audio","bank":"etHat1","n":6},
+{ "url":"etHat1/etHat1_08.mp3","type":"audio","bank":"etHat1","n":7},
+{ "url":"etHat1/etHat1_09.mp3","type":"audio","bank":"etHat1","n":8}  
 ]
