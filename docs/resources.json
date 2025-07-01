@@ -1,5 +1,5 @@
 [
-  { "url":"etIDM1/drum1_01.mp3","type":"audio","bank":"etIDM1","n":0},
+{ "url":"etIDM1/drum1_01.mp3","type":"audio","bank":"etIDM1","n":0},
 { "url":"etIDM1/drum1_02.mp3","type":"audio","bank":"etIDM1","n":1},
 { "url":"etIDM1/drum1_03.mp3","type":"audio","bank":"etIDM1","n":2},
 { "url":"etIDM1/drum1_04.mp3","type":"audio","bank":"etIDM1","n":3},
