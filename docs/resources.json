@@ -95,5 +95,22 @@
 { "url":"etBass1/etBass1_30.mp3","type":"audio","bank":"etBass1","n":29},
 { "url":"etBass1/etBass1_31.mp3","type":"audio","bank":"etBass1","n":30},
 { "url":"etBass1/etBass1_32.mp3","type":"audio","bank":"etBass1","n":31},
-{ "url":"etBass1/etBass1_33.mp3","type":"audio","bank":"etBass1","n":32}
+{ "url":"etBass1/etBass1_33.mp3","type":"audio","bank":"etBass1","n":32},
+{ "url":"etBass2/etBass2_01.mp3","type":"audio","bank":"etBass2","n":0},
+{ "url":"etBass2/etBass2_02.mp3","type":"audio","bank":"etBass2","n":1},
+{ "url":"etBass2/etBass2_03.mp3","type":"audio","bank":"etBass2","n":2},
+{ "url":"etBass2/etBass2_04.mp3","type":"audio","bank":"etBass2","n":3},
+{ "url":"etBass2/etBass2_05.mp3","type":"audio","bank":"etBass2","n":4},
+{ "url":"etBass2/etBass2_06.mp3","type":"audio","bank":"etBass2","n":5},
+{ "url":"etBass2/etBass2_07.mp3","type":"audio","bank":"etBass2","n":6},
+{ "url":"etBass2/etBass2_08.mp3","type":"audio","bank":"etBass2","n":7},
+{ "url":"etBass2/etBass2_09.mp3","type":"audio","bank":"etBass2","n":8},
+{ "url":"etBass2/etBass2_10.mp3","type":"audio","bank":"etBass2","n":9},
+{ "url":"etBass2/etBass2_11.mp3","type":"audio","bank":"etBass2","n":10},
+{ "url":"etBass2/etBass2_12.mp3","type":"audio","bank":"etBass2","n":11},
+{ "url":"etBass2/etBass2_13.mp3","type":"audio","bank":"etBass2","n":12},
+{ "url":"etBass2/etBass2_14.mp3","type":"audio","bank":"etBass2","n":13},
+{ "url":"etBass2/etBass2_15.mp3","type":"audio","bank":"etBass2","n":14},
+{ "url":"etBass2/etBass2_16.mp3","type":"audio","bank":"etBass2","n":15},
+  
 ]
